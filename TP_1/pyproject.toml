@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "tp-1"
+version = "0.1.0"
+description = "This Poetry package contains the solution to Delivery N. 1 of the Towers of Hanoi problem"
+authors = ["Diego <sarinadiego@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = ">=1.0"
+jupyterlab = ">=4.0"
+matplotlib = ">=3.7"
+numpy = ">=1.24"
+pygame = ">=2.5"
+scipy = ">=1.10"
+scikit-learn = ">=1.3"
+seaborn = ">=0.13"
+memory-profiler = "^0.61.0"
+thinker = "^1.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
