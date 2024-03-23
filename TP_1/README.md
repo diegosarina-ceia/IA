@@ -18,12 +18,12 @@ Dentro de este repositorio, encontrarán la solución al TP Nº 1 de Introducci�
 
 Aclaración sobre los directorios:
 
-- [RESOLUCION.md](/IA/TP_1/teoria/RESOLUCION.md): respuestas a las preguntas de teoría planteadas en el trabajo práctico.
+- [RESOLUCION.md](/TP_1/teoria/RESOLUCION.md): respuestas a las preguntas de teoría planteadas en el trabajo práctico.
 
-- [search.py](/IA/TP_1/hanoi_tower/search.py): algoritmos de búsqueda implementados
+- [search.py](/TP_1/hanoi_tower/search.py): algoritmos de búsqueda implementados
 
-- [resolucion.py](/hanoi_tower/resolucion.py): archivo principal para medir tiempos y ejecuciones multiples.
+- [resolucion.py](/TP_1/hanoi_tower/resolucion.py): archivo principal para medir tiempos y ejecuciones multiples.
 
-- [resolucion.ipynb](/hanoi_tower/resolucion.ipynb): este notebook fue auxiliar al principio en las ejecuciones simples y para la generación de las secuencias
+- [resolucion.ipynb](/TP_1/hanoi_tower/resolucion.ipynb): este notebook fue auxiliar al principio en las ejecuciones simples y para la generación de las secuencias
 
-- [simulator_files](/hanoi_tower/simulator_files/): contiene los `json's` de cada tipo de metodo de búsqueda 
+- [simulator_files](/TP_1/hanoi_tower/simulator_files/): contiene los `json's` de cada tipo de metodo de búsqueda 
