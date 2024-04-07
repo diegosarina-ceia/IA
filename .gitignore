@@ -1,5 +1,4 @@
-/TP_1/.venv
-.venv/*
+*/.venv/*
 __pycache__
 .ipynb_*
 .DS_Store
