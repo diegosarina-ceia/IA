@@ -13,7 +13,7 @@ Repositorio público para subir las entregas de los trabajos prácticos realizad
 
 En este repositorio, encontrarás los siguientes elementos organizados por carpetas:
 
-[TP1 - Torres de Hanói](/TP_1/)
-[TP2 - Regresión Lineal](/TP_2/)
+- [TP1 - Torres de Hanói](/TP_1/)
+- [TP2 - Regresión Lineal](/TP_2/)
 
 >NOTA: este README se actualizará en función de las entregas
