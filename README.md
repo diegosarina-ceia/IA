@@ -15,5 +15,6 @@ En este repositorio, encontrarás los siguientes elementos organizados por carpe
 
 - [TP1 - Torres de Hanói](/TP_1/)
 - [TP2 - Regresión Lineal](/TP_2/)
+- [TP3 - Clasificador Spam](/TP_3/)
 
 >NOTA: este README se actualizará en función de las entregas
